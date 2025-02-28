@@ -1,5 +1,6 @@
-nginx:1.27.4
-redis:5.0.14
-redis:6.0.20
+mysql:5.7.44
+mysql:8.0.41
+jenkins:lts
+gitlab-ce:17.2.8-ce.0
 #支持指定架构
 #--platform=linux/arm64
