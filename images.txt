@@ -1,6 +1,4 @@
-mysql:5.7.44
-mysql:8.0.41
-jenkins/jenkins:lts
-gitlab-ce:17.2.8-ce.0
+
+gitlab/gitlab-ce:17.2.8-ce.0
 #支持指定架构
 #--platform=linux/arm64
